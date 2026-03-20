@@ -1,7 +1,7 @@
 <?php
-require_once __DIR__ . 'User.php';
+require_once __DIR__ . 'user.php';
 require_once __DIR__ . 'input_validation.php';
-require_once __DIR__ . 'ErrorHandler.php';
+require_once __DIR__ . 'error_handling.php';
 
 session_start();
 
